@@ -1,0 +1,12 @@
+{
+	"Name": "Sparsh",
+	"Age": 20,
+	"Contact": "4365436433",
+	"Company": "SN3",
+	"Address": {
+		"City": "Chennai",
+		"State": "Tamil Nadu",
+		"Country": "India",
+		"Pincode": 600001
+	}
+}

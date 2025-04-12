@@ -1,0 +1,12 @@
+{
+	"Name": "Nitesh",
+	"Age": 21,
+	"Contact": "6476464864",
+	"Company": "SN2",
+	"Address": {
+		"City": "Noida",
+		"State": "Uttar Pradesh",
+		"Country": "India",
+		"Pincode": 110025
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Mayank",
+	"Age": 19,
+	"Contact": "8242343242",
+	"Company": "SN1",
+	"Address": {
+		"City": "Bangalore",
+		"State": "Karnataka",
+		"Country": "India",
+		"Pincode": 560001
+	}
+}

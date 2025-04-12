@@ -1,0 +1,12 @@
+{
+	"Name": "Ashutosh",
+	"Age": 20,
+	"Contact": "6746487468",
+	"Company": "SN4",
+	"Address": {
+		"City": "Gurgaon",
+		"State": "Haryana",
+		"Country": "India",
+		"Pincode": 122001
+	}
+}

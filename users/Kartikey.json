@@ -1,0 +1,12 @@
+{
+	"Name": "Kartikey",
+	"Age": 19,
+	"Contact": "2325325433",
+	"Company": "SN6",
+	"Address": {
+		"City": "Bangalore",
+		"State": "Karnataka",
+		"Country": "India",
+		"Pincode": 560001
+	}
+}

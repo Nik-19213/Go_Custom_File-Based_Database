@@ -1,0 +1,12 @@
+{
+	"Name": "Ashyam",
+	"Age": 21,
+	"Contact": "0987667552",
+	"Company": "SN5",
+	"Address": {
+		"City": "Pune",
+		"State": "Maharashtra",
+		"Country": "India",
+		"Pincode": 111045
+	}
+}
