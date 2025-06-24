@@ -1,4 +1,4 @@
-# Go MyOwn Database
+# My Own Custom File-Based Database 
 
 A simple, file-based JSON database implemented in Go. This project demonstrates how to create, read, update, and delete user records stored as JSON files, using basic concurrency control and logging.
 
